@@ -1,1 +1,8 @@
-[].
+[{<<"rets">>,
+  {git,"https://github.com/xmppjingle/rets.git",
+       {ref,"4b386c268021efc9f073de759dd72151cae1ab78"}},
+  0},
+ {<<"udp_channel">>,
+  {git,"https://github.com/25dedezembro/udp_channel.git",
+       {ref,"c27b2b6a4cd0c39b9efc0ec56648ed96de59cb49"}},
+  0}].

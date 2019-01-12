@@ -1,4 +1,4 @@
-{application, udp_channel, [
+{application, packet_counter, [
     {description, "Packet counter for diameter"},
     {vsn, git},
     {registered, []},
