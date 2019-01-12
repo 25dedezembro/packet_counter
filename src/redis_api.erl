@@ -1,4 +1,4 @@
--module(packet_counter).
+-module(redis_api).
 
 -behaviour(gen_server).
 

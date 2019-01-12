@@ -1,5 +1,5 @@
-{application, packet_counter, [
-    {description, "Packet counter for diameter"},
+{application, redis_api, [
+    {description, "API for redis operations"},
     {vsn, git},
     {registered, []},
     {applications, [kernel,
@@ -7,5 +7,5 @@
     {env, []},
     {maintainers, ["Natal Vieira de Souza Neto"]},
     {licenses, ["Apache License 2.1"]},
-    {links, [{"Github", "https://github.com/25dedezembro/packet_counter"}]}
+    {links, [{"Github", "https://github.com/25dedezembro/redis_api"}]}
 ]}.
